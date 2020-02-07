@@ -10,7 +10,7 @@
 </head>
 <body>
     <h1>WELCOME PRASANTH</h1>
-<h2>This is my first website</h2>
+<h2>HAVE FUN</h2>
 <ul>
     <li>HAVE A GOOD DAY</li>
     <li>TAKE CARE</li>

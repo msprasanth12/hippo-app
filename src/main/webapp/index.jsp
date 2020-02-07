@@ -12,7 +12,7 @@
     <h1>WELCOME PRASANTH</h1>
 <h2>HAVE FUN</h2>
 <ul>
-    <li>HAVE A GOOD DAY</li>
+    <li>HAVE A GOOD DAY MS</li>
     <li>TAKE CARE</li>
 </ul>
 
